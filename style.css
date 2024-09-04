@@ -10,7 +10,7 @@ body {
     color: white;
     font-size: 30px;
 }
-.titulo__principal{
+.titulo{
     text-align: center;
     font-size:80px;
     margin-top: 3%;
@@ -48,4 +48,4 @@ body {
 }
 h2{
     text-decoration: underline;
-}a
+}
