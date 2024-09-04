@@ -25,7 +25,7 @@ body {
     display: flex;
 }
 
-.lista{
+ul{
     list-style-type: none;
 }
 
