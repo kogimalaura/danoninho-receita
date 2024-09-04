@@ -34,9 +34,11 @@ img{
     width: 400px;
     height: 600px;
 }
+
 .texto{
     flex-direction:column;
 }
+
 h2{
     text-decoration: underline;
 }
