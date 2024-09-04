@@ -17,7 +17,6 @@ body {
 }
 .borda{
     background-color: rgb(228, 112, 180);
-    border: blue 6px;
     margin: 20px;
     padding: 10px;
     border-radius: 20px;    
