@@ -32,8 +32,7 @@ body {
 }
 
 img{
-    border:solid 5px white;
-    border-radius: 50px;
+    border:solid 5px rgb(255, 255, 255);
     width: 400px;
     height: 600px;
     margin-right:3%;
