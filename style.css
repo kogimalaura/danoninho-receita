@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(212, 136, 181);
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    color: white;
+    font-size: 30px;
+}
+.titulo__principal{
+    text-align: center;
+    font-size:80px;
+    margin-top: 3%;
+}
+.borda{
+    background-color: rgb(248, 160, 211);
+    border: dotted 6px;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 20px;    
+}
+.flex{
+    display: flex;
+}
+
+.lista{
+    list-style-type: none;
+}
+
+.imagem{
+    border:solid 5px white;
+    border-radius: 50px;
+    width: 400px;
+    height: 600px;
+    margin-right:3%;
+    margin-top:5%;
+}
+.texto{
+    flex-direction:column;
+    margin-right:10%;
+    margin-left:3%;
+    margin-bottom:3%;
+    margin-top:3%;
+    font-family: "Indie Flower", cursive;
+}
+h2{
+    text-decoration: underline;
+}a
