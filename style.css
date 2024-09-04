@@ -24,6 +24,7 @@ body {
 }
 .flex{
     display: flex;
+    flex-direction: row-reverse;
 }
 
 .lista{
